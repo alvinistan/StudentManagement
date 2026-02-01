@@ -15,7 +15,7 @@ function App() {
       <nav style={{padding: "10px", borderBottom: "1px solid #ccc", marginBottom: "20px"}}>
         <Link to="/" style={{marginRight: "10px"}}>Home</Link>
         <Link to="/students">Students List</Link>
-         <Link to="/add-student" style={{marginLeft: "10px"}}>Add Student</Link>
+         <Link to="/Update-student" style={{marginLeft: "10px"}}>Add Student</Link>
       </nav>
 
       {/* Define routes for the application */}
